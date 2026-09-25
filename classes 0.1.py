@@ -68,4 +68,4 @@ class Figurka:
 class Kun(Figurka):
     pass
 
-
+#dont be stupid and create classes seperatly, this is stupid
