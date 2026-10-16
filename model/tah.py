@@ -1,3 +1,6 @@
+from model.figurka import Figurka
+
+
 class Tah:
     def __init__(self, vychozi_pozice, cilova_pozice, figurka, typ_tahu):
         self.vychozi_pozice = vychozi_pozice
