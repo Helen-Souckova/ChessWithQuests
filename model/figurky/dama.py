@@ -1,4 +1,3 @@
-from model.figurky.pozice import Pozice
 from model.figurka import Figurka
 
 

@@ -1,0 +1,1 @@
+#reacts to player clicking on visual stuff and gives the information to game manager

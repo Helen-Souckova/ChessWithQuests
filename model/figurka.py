@@ -5,3 +5,4 @@ class Figurka:
         self.barva = barva
         self.vektory = vektory
         self.skok = skok
+#https://www.geeksforgeeks.org/python/python-object/

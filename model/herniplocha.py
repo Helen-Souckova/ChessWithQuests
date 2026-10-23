@@ -4,3 +4,6 @@ class HerniPlocha:
         self.herni_deska = herni_deska
         self.vyhozene_figurky_b = vyhozene_figurky_b
         self.vyhozene_figurky_c = vyhozene_figurky_c
+
+    def new_board(self):
+        return
