@@ -7,3 +7,5 @@ class GameManager:
         self.casovac = Timer
         self.game_logger = GameLogger
         self.revizor_tahu = RevizorTahu
+
+#i have no idea what anz of it is supposed to do
