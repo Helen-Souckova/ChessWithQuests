@@ -1,4 +1,4 @@
 class Hrac:
     def __init__(self, barva, uzivatel):
-        self.barva = barva
+        self.barva: int = barva
         self.uzivatel = uzivatel
